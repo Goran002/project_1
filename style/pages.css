@@ -88,7 +88,7 @@ li{
     align-items: center;
 }
 .picture{
-    background-image: url('/verstka/verstka/about_us/first_pic.jpg');
+    background-image: url('about_us/first_pic.jpg');
     width:1140px;
     height: 425px;
     background-size:cover;
@@ -364,7 +364,7 @@ li{
 	justify-content: center;
 }
 .picture_foot{
-	background-image: url('/verstka/verstka/about_us/foot_pic/1.jpg');
+	background-image: url('about_us/foot_pic/1.jpg');
 	background-repeat: no-repeat;
 	background-size: cover;
 	width: 1140px;
